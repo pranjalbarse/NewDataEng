@@ -51,4 +51,3 @@ if __name__ == "__main__":
             break
     snow.close()
     logging.info("Ingest complete")
-    
